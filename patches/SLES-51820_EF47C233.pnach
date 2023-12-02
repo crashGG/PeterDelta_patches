@@ -1,0 +1,6 @@
+gametitle=Sniper Elite (PAL-M) SLES-51820 EF47C233
+
+[50 FPS]
+author=PeterDelta
+description=Might need EE Overclock (130%).
+patch=1,EE,00198FA8,word,1460000A //1060000A

@@ -1,0 +1,10 @@
+gametitle=The Simpsons Skateboarding (PAL-E) SLES-50754 5F95B2D4
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=Modo SDTV 480p al iniciar.
+patch=1,EE,0010D860,word,34050050
+patch=1,EE,0010D864,word,24030002
+patch=1,EE,0010D868,word,0000000C
+patch=1,EE,0010D86C,word,03E00008

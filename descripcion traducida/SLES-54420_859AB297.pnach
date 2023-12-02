@@ -1,0 +1,16 @@
+gametitle=Arthur and the Minimoys (PAL-M) SLES-54420 859AB297
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,007E0438,word,3F6E6D1C
+patch=1,EE,007E0440,word,3F891A31
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=Modo SDTV 480p al iniciar.
+patch=1,EE,0010D294,word,24110000
+patch=1,EE,0010D298,word,24120050
+patch=1,EE,0010D2A4,word,24130001
