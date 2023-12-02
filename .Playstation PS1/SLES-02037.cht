@@ -1,0 +1,8 @@
+# Star Wars - Episodio I - La Minaccia Fantasma (Italy) SLES-02037
+[50 FPS]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Unlocks internal FPS.
+OverrideCPUOverclock = 180
+8007791C 0001

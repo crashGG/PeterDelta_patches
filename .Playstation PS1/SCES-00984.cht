@@ -1,0 +1,13 @@
+# Gran Turismo (Europe) SCES-00984
+[50 FPS]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Unlocks internal FPS.
+OverrideCPUOverclock = 180
+E00B6168 0002
+800B6168 0001
+E002AA7C 0002
+8002AA7C 0001
+E002E560 0002
+8002E560 0001

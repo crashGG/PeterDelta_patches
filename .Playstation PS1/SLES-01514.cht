@@ -1,0 +1,8 @@
+# Silent Hill (Europe) SLES-01514
+[50 FPS]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Unlocks internal FPS.
+OverrideCPUOverclock = 280
+800A8BCC 0001

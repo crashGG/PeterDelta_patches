@@ -1,0 +1,8 @@
+# Star Wars - Episode I - The Phantom Menace (USA) SLUS-00884
+[60 FPS]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Unlocks internal FPS.
+OverrideCPUOverclock = 180
+800777C0 0001
