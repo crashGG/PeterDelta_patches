@@ -1,0 +1,12 @@
+gametitle=Need for Speed - Most Wanted (NTSC-U) SLUS-21267 270F8C03
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Enable native widescreen
+patch=1,EE,00AAFDD4,byte,01
+
+[Remove Blur]
+author=PeterDelta
+description=Removes the blur effect
+patch=1,EE,0055014C,word,00000000

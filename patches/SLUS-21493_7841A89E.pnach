@@ -1,0 +1,14 @@
+gametitle=Need for Speed - Carbon (NTSC-U) SLUS-21493 7841A89E
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Enable native widescreen
+patch=1,EE,E0010000,extended,00A6E994
+patch=1,EE,00A6E994,extended,00000001
+
+[Remove Blur/Bloom]
+author=PeterDelta
+description=Removes the post-processing blur/bloom effect
+patch=1,EE,00624044,word,00000000
+patch=1,EE,00624170,word,01000000
