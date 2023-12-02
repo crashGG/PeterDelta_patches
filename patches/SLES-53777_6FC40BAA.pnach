@@ -1,0 +1,6 @@
+gametitle=Prince of Persia - The Two Thrones (PAL-M5) SLES-53777 6FC40BAA
+
+[50/60 FPS]
+author=PeterDelta
+description=Might need EE Overclock (180%).
+patch=1,EE,00A90CF8,word,00000001 //00000002
