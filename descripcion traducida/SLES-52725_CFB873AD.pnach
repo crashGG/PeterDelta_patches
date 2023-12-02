@@ -1,0 +1,28 @@
+gametitle=Need for Speed - Underground 2 (PAL-M) SLES-52725 CFB873AD
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Habilita pantalla panorámica nativa
+patch=1,EE,004F12DC,byte,01
+
+[50/60 FPS]
+author=asasega
+description=Puede requerir aumentar la frecuencia del EE (130%).
+patch=1,EE,201D7FBC,extended,2C420001
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=Modo SDTV 480p al iniciar.
+patch=1,EE,00421E54,word,24110000
+patch=1,EE,00421E58,word,24120050
+patch=1,EE,00421E64,word,24130001
+patch=1,EE,00563214,word,3C888889
+
+[Remove blur]
+author=PeterDelta
+description=Elimina el efecto blur
+patch=1,EE,001D39D0,word,03E00008
+patch=1,EE,001D39D4,word,00000000
+patch=1,EE,00565E98,word,00000000

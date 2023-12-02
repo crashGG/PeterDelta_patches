@@ -1,0 +1,14 @@
+gametitle=Sitting Ducks (PAL-M) SLES-52116 6B8D216E
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Enable native widescreen
+patch=1,EE,004677F0,word,3FE38E39
+
+[50 FPS]
+author=PeterDelta
+description=Unlocks internal FPS.
+patch=1,EE,0067DA58,extended,00000032
+patch=1,EE,E0010001,extended,0046786C
+patch=1,EE,0067DA58,extended,00000019

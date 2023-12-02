@@ -1,0 +1,11 @@
+gametitle=Freedom Fighters (PAL-F) BADCA543 FF.ELF
+//Corresponds to the main crc to activate the secondary crc A6698B41 called FF.ELF
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=PeterDelta
+description=Activer l'écran large natif
+
+[480p Mode]
+author=PeterDelta
+description=Mode SDTV 480p au démarrage.

@@ -1,0 +1,23 @@
+gametitle=Torrente 3 - The Protector (PAL-E) SLES-54117 28241DFE
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=Arapapa
+description=Renderiza el juego en proporción de 16:9
+patch=1,EE,00253c48,word,08123794
+patch=1,EE,0048de50,word,3c013f40
+patch=1,EE,0048de54,word,4481f000
+patch=1,EE,0048de58,word,c6010068
+patch=1,EE,0048de5c,word,c602006c
+patch=1,EE,0048de60,word,461e0843
+patch=1,EE,0048de64,word,e6010068
+patch=1,EE,0048de68,word,08094f14
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=Modo SDTV 480p al iniciar.
+patch=1,EE,20102CD8,extended,00069403
+patch=1,EE,E0010000,extended,0056FA3C
+patch=1,EE,20102CD8,extended,24120050
+patch=1,EE,0010471C,extended,64420000

@@ -1,0 +1,15 @@
+gametitle=Max Payne (PAL-M) SLES-50326 52E0597D
+//Corresponds to the main crc to activate the secondary crc C669B63C called MAIN_P.RUN
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+author=El_Patas & PeterDelta
+description=Renderiza el juego en proporción de 16:9
+
+[Remove Blackbars]
+author=PeterDelta
+description=Elimina las barras negras en las escenas
+
+[480p Mode]
+author=PeterDelta
+description=Modo SDTV 480p al iniciar. Puede requerir aumentar la frecuencia del EE (300%)
