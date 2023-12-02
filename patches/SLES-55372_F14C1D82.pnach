@@ -1,0 +1,13 @@
+gametitle=Spider-Man - Web of Shadows - Amazing Allies Edition (PAL-M) SLES-55372 F14C1D82
+
+[NTSC Mode]
+author=PeterDelta
+description=NTSC mode at start. Accelerated
+patch=1,EE,003D56A4,word,24020002
+patch=1,EE,004FC794,word,000001C0
+
+[480p Mode]
+author=PeterDelta
+description=SDTV 480p mode at start. Accelerated
+patch=1,EE,003D56BC,word,14000013
+patch=1,EE,004FC794,word,000001E0
