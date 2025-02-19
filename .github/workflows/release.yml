@@ -63,7 +63,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        tag_name: latest
+        tag_name: ${{ steps.vars.outputs.short_sha }}
         release_name: latest build
         draft: false
         prerelease: false
