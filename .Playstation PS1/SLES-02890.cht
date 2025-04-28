@@ -1,0 +1,11 @@
+# Spider-Man (Spain) SLES-02890
+[50 FPS]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Unlocks internal FPS.
+OverrideCPUOverclock = 200
+E00B67AC 001E
+8002C3E8 0001
+E00B67AC 0000
+8002C3E8 0000

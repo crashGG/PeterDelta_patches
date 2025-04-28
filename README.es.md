@@ -1852,9 +1852,10 @@ Publico aquellos que están más avanzados, exponiendo lo que queda y lo que est
   </tr>
 	</table>
 
-JUEGOS DE PLAYSTATION
+<b>JUEGOS DE PLAYSTATION</b>
   
-Todos los juegos de PS1 requieren corrección de velocidad al desbloquear los FPS internos, estos son los únicos que no tienen errores por el momento.
+En el catálogo de PlayStation, los juegos requieren corrección de velocidad al desbloquear los FPS internos.
+Estos son los únicos que actualmente no presentan errores, salvo algunas animaciones de objetos que se ejecutan al doble de velocidad, pero se pueden jugar perfectamente.
 
 <table>
   <tr>
@@ -1863,7 +1864,11 @@ Todos los juegos de PS1 requieren corrección de velocidad al desbloquear los FP
   </tr>
   <tr>
     <td>CTR - Crash Team Racing</td>
-    <td style="text-align:center;"><a href=".Playstation PS1/SCES-02105.cht">PAL-M</a><sup>1</sup></td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SCES-02105.cht">PAL-M</a><sup><b>1</b></sup></td>
+  </tr>
+  <tr>
+    <td>Disney-Pixar Toy Story 2</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02408.cht">PAL-S</a> - <a href=".Playstation PS1/SLES-02067.cht">PAL-E</a> - <a href=".Playstation PS1/SLES-02407.cht">PAL-I</a> - <a href=".Playstation PS1/SLUS-00893.cht">USA</a></td>
   </tr>
   <tr>
     <td>Gran Turismo</td>
@@ -1871,17 +1876,42 @@ Todos los juegos de PS1 requieren corrección de velocidad al desbloquear los FP
   </tr>
   <tr>
     <td>Gran Turismo 2 PAL</td>
-    <td style="text-align:center;"><a href=".Playstation PS1/SCES-02380.cht">Arcade</a> - <a href=".Playstation PS1/SCES-12380.cht">GT mode</a></td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SCES-02380.cht">Arcade</a><sup><b>3</b></sup> - <a href=".Playstation PS1/SCES-12380.cht">GT mode</a><sup><b>3</b></sup></td>
   </tr>
   <tr>
-    <td>Star Wars Episodio I - La Amenaza Fantasma</td>
-    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02038.cht">PAL-S</a> - <a href=".Playstation PS1/SLES-02037.cht">PAL-I</a><sup>2</sup> - <a href=".Playstation PS1/SLES-02034.cht">PAL-E</a> - <a href=".Playstation PS1/SLES-02035.cht">PAL-F</a> - <a href=".Playstation PS1/SLUS-00884.cht">USA</a></td>
+    <td>Metal Gear Solid (Spain)</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-01734.cht">Disc 1</a> - <a href=".Playstation PS1/SLES-11734.cht">Disc 2</a></td>
   </tr>
   <tr>
     <td>Silent Hill</td>
     <td style="text-align:center;"><a href=".Playstation PS1/SLES-01514.cht">PAL-M</a></td>
   </tr>
+  <tr>
+    <td>Spider-Man</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02890.cht">PAL-S</a><sup><b>1</b></sup></td>
+  </tr>
+  <tr>
+    <td>Star Wars Episode I - The Phantom Menace</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02038.cht">PAL-S</a> - <a href=".Playstation PS1/SLES-02037.cht">PAL-I</a><sup><b>2</b></sup> - <a href=".Playstation PS1/SLES-02034.cht">PAL-E</a> - <a href=".Playstation PS1/SLES-02035.cht">PAL-F</a> - <a href=".Playstation PS1/SLUS-00884.cht">USA</a></td>
+  </tr>
+  <tr>
+    <td>Tony Hawk's Skateboarding</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02055.cht">PAL-E</a></td>
+  </tr>
+  <tr>
+    <td>Tony Hawk's Pro Skater 2</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02908.cht">PAL-E</a> - <a href=".Playstation PS1/SLES-02909.cht">PAL-F</a> - <a href=".Playstation PS1/SLES-02910.cht">PAL-G</a></td>
+  </tr>
+  <tr>
+    <td>Tony Hawk's Pro Skater 3</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-03645.cht">PAL-E</a> - <a href=".Playstation PS1/SLES-03646.cht">PAL-F</a> - <a href=".Playstation PS1/SLUS-01419.cht">USA</a></td>
+  </tr>
+  <tr>
+    <td>Tony Hawk's Pro Skater 4</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-03954.cht">PAL-E</a> - <a href=".Playstation PS1/SLES-03956.cht">PAL-F</a> - <a href=".Playstation PS1/SLUS-01485.cht">USA</a></td>
+  </tr>
 	</table>
 
-<sup>1</sup> Animaciones x2, velocidad y temporizador ok  
-<sup>2</sup> Vale para PAL-G, renombrar a SLES-02036
+<sup><b>1</b></sup> Animaciones x2, velocidad y temporizador ok  
+<sup><b>2</b></sup> Vale para PAL-G, renombrar a SLES-02036  
+<sup><b>3</b></sup> Las repeticiones no se reproducen completamente, no hay solución en este momento  

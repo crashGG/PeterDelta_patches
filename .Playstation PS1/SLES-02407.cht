@@ -1,0 +1,8 @@
+# Disney-Pixar Toy Story 2 - Woody e Buzz alla riscossa! (Italy) SLES-02407
+[50 FPS]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Unlocks internal FPS.
+OverrideCPUOverclock = 180
+8007B248 0001

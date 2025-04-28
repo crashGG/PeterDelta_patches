@@ -1,0 +1,8 @@
+# Tony Hawk's Pro Skater 2 (Europe) SLES-02908
+[50 FPS]
+Type = Gameshark
+Activation = EndFrame
+Author = PeterDelta
+Description = Unlocks internal FPS.
+OverrideCPUOverclock = 200
+8003CC3C 0000

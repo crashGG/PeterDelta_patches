@@ -1850,11 +1850,12 @@ I publish those that are more advanced, exposing what remains and what I am inve
     <td style="text-align:center;"><a href="patches/SLES-51244_200BC0E6.pnach">PAL-M</a></td>
     <td></td>
   </tr>
-	</table>
+	</table>  
 
-PLAYSTATION GAMES
+<b>PLAYSTATION GAMES</b>
 
-All PS1 games require speed correction when unlocking internal FPS, these are the only ones that do not have any bugs at the moment.
+In the Playstation catalog, games require speed correction when unlocking the internal FPS.
+These are the only ones that are currently bug-free, except for some object animations that are running at double speed, but they are playable perfectly.
 
 <table>
   <tr>
@@ -1863,7 +1864,11 @@ All PS1 games require speed correction when unlocking internal FPS, these are th
   </tr>
   <tr>
     <td>CTR - Crash Team Racing</td>
-    <td style="text-align:center;"><a href=".Playstation PS1/SCES-02105.cht">PAL-M</a><sup>1</sup></td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SCES-02105.cht">PAL-M</a><sup><b>1</b></sup></td>
+  </tr>
+  <tr>
+    <td>Disney-Pixar Toy Story 2</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02408.cht">PAL-S</a> - <a href=".Playstation PS1/SLES-02067.cht">PAL-E</a> - <a href=".Playstation PS1/SLES-02407.cht">PAL-I</a> - <a href=".Playstation PS1/SLUS-00893.cht">USA</a></td>
   </tr>
   <tr>
     <td>Gran Turismo</td>
@@ -1871,17 +1876,42 @@ All PS1 games require speed correction when unlocking internal FPS, these are th
   </tr>
   <tr>
     <td>Gran Turismo 2 PAL</td>
-    <td style="text-align:center;"><a href=".Playstation PS1/SCES-02380.cht">Arcade</a> - <a href=".Playstation PS1/SCES-12380.cht">GT mode</a></td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SCES-02380.cht">Arcade</a><sup><b>3</b></sup> - <a href=".Playstation PS1/SCES-12380.cht">GT mode</a><sup><b>3</b></sup></td>
   </tr>
   <tr>
-    <td>Star Wars Episode I - The Phantom Menace</td>
-    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02038.cht">PAL-S</a> - <a href=".Playstation PS1/SLES-02037.cht">PAL-I</a><sup>2</sup> - <a href=".Playstation PS1/SLES-02034.cht">PAL-E</a> - <a href=".Playstation PS1/SLES-02035.cht">PAL-F</a> - <a href=".Playstation PS1/SLUS-00884.cht">USA</a></td>
+    <td>Metal Gear Solid (Spain)</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-01734.cht">Disc 1</a> - <a href=".Playstation PS1/SLES-11734.cht">Disc 2</a></td>
   </tr>
   <tr>
     <td>Silent Hill</td>
     <td style="text-align:center;"><a href=".Playstation PS1/SLES-01514.cht">PAL-M</a></td>
   </tr>
+  <tr>
+    <td>Spider-Man</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02890.cht">PAL-S</a><sup><b>1</b></sup></td>
+  </tr>
+  <tr>
+    <td>Star Wars Episode I - The Phantom Menace</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02038.cht">PAL-S</a> - <a href=".Playstation PS1/SLES-02037.cht">PAL-I</a><sup><b>2</b></sup> - <a href=".Playstation PS1/SLES-02034.cht">PAL-E</a> - <a href=".Playstation PS1/SLES-02035.cht">PAL-F</a> - <a href=".Playstation PS1/SLUS-00884.cht">USA</a></td>
+  </tr>
+  <tr>
+    <td>Tony Hawk's Skateboarding</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02055.cht">PAL-E</a></td>
+  </tr>
+  <tr>
+    <td>Tony Hawk's Pro Skater 2</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-02908.cht">PAL-E</a> - <a href=".Playstation PS1/SLES-02909.cht">PAL-F</a> - <a href=".Playstation PS1/SLES-02910.cht">PAL-G</a></td>
+  </tr>
+  <tr>
+    <td>Tony Hawk's Pro Skater 3</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-03645.cht">PAL-E</a> - <a href=".Playstation PS1/SLES-03646.cht">PAL-F</a> - <a href=".Playstation PS1/SLUS-01419.cht">USA</a></td>
+  </tr>
+  <tr>
+    <td>Tony Hawk's Pro Skater 4</td>
+    <td style="text-align:center;"><a href=".Playstation PS1/SLES-03954.cht">PAL-E</a> - <a href=".Playstation PS1/SLES-03956.cht">PAL-F</a> - <a href=".Playstation PS1/SLUS-01485.cht">USA</a></td>
+  </tr>
 	</table>
 
-<sup>1</sup> Animations x2, speed and timer ok   
-<sup>2</sup> valid for PAL-G, rename to SLES-02036
+<sup><b>1</b></sup> Animations x2, speed and timer ok   
+<sup><b>2</b></sup> Valid for PAL-G, rename to SLES-02036  
+<sup><b>3</b></sup> Replays are not playing completely, no solution at the moment  
